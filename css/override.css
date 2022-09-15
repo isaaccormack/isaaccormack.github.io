@@ -1,3 +1,6 @@
+/*
+issue: below only works on pages, not index.md
+
 body {
   background-color: #f7f7ed;
 }
@@ -5,6 +8,7 @@ body {
 .site-header {
   border-top: 5px solid #5e5e5e;
 }
+*/
 
 hr {
   margin-top: 30px;
